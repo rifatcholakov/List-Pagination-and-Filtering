@@ -3,8 +3,8 @@ Implementation of pagination and search functionality.
 <img src="https://i.imgur.com/r58JiWy.png" />
 
 # Fetures
-* Pagination.
-* Search.
+* Pagination
+* Search
 
 # Demo
 https://rifatcholakov.github.io/List-Pagination-and-Filtering/
