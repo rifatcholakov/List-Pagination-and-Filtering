@@ -7,7 +7,7 @@ Implementation of pagination and search functionality.
 * Search
 
 # Demo
-https://rifatcholakov.github.io/List-Pagination-and-Filtering/
+<a href="https://rifatcholakov.github.io/List-Pagination-and-Filtering/" target="_blank">https://rifatcholakov.github.io/List-Pagination-and-Filtering/</a>
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details
