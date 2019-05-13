@@ -8,7 +8,7 @@ Implementation of pagination and search functionality.
 * Pagination
 * Search
 
-# Demo
+# Preview
 <a href="https://rifatcholakov.github.io/List-Pagination-and-Filtering/" target="_blank">https://rifatcholakov.github.io/List-Pagination-and-Filtering/</a>
 
 # License
